@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @oleg22812371
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-oleg22812371/oleg22812371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-hi all
+we wanna cash
+and work
